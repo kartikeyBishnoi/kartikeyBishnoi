@@ -5,16 +5,15 @@
 <div align="center">
   It interests me how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research.
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kartikey-bishnoi-73343630b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:kartikey.bishnoi.24cse@bmu.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
