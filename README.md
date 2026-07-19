@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:111827&text=Kartikey%20Bishnoi&fontColor=E2E8F0&fontSize=40&fontAlignY=35&desc=AI%20•%20Neural%20Networks%20•%20Research%20•%20Intelligent%20Systems&descAlignY=58&descSize=18" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kartikey Bishnoi</h1>
-
 <p align="center">
   I study how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research.
 </p>
