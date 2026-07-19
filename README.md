@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  It interests me how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research
+  Interested in how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research
 </p>
 
 <p align="center">
@@ -18,10 +18,6 @@
 ---
 
 ## Research Interests
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,graphql,git,github,vscode,androidstudio,jupyter,linux" />
-</p>
 
 I am most interested in:
 
@@ -77,7 +73,7 @@ Current goals:
 ### [Nitro - Wake-Word Voice Assistant](https://github.com/kartikeyBishnoi/Nitro)
 Wake-word activated voice assistant with LLM querying and offline responses.
 
-### [Grow21](https://github.com/kartikeyBishnoi/Grow21-MAD)
+### [Grow21](https://github.com/kartikeyBishnoi/Grow21)
 AI-assisted learning app for children with Trisomy 21.
 
 ### [HydroSense](https://github.com/kartikeyBishnoi/HydroSense)
@@ -90,11 +86,20 @@ RAG chatbot for BMU policy queries.
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,flask,huggingface,langchain,chromadb,n8n,git,github,vscode,androidstudio,jupyter,linux" />
-</p>
+### Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" /></p>
+
+### AI / ML
+<p align="center"><img src="https://skillicons.dev/icons?i=opencv,flask,huggingface,langchain,chromadb" /></p>
+
+### APIs / Data
+<p align="center"><img src="https://skillicons.dev/icons?i=graphql,n8n" /></p>
+
+### Tools
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" /></p>
 
 ---
+
 
 ## GitHub Stats
 
