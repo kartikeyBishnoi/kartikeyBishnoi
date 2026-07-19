@@ -99,14 +99,21 @@ Current goals:
       AI-assisted learning app for children with Trisomy 21.
     </td>
   </tr>
+</table>
+
+---
+
+## Collaborative Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kartikeyBishnoi/HydroSense"><b>HydroSense</b></a><br/>
-      Real-time monitoring and alert system for sensor data.
+      <a href="https://github.com/BB-BhavyaBansal/grow21"><b>Grow21 Android Application</b></a><br/>
+      Contributor to an AI-assisted Android learning application for children with Trisomy 21. Worked on feature implementation, authentication, UI improvements, and educational modules as part of a four-member development team.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kartikeyBishnoi/Palmo"><b>PalmBot</b></a><br/>
-      RAG chatbot for BMU policy queries.
+      <a href="https://github.com/luvruv/Grow21"><b>Grow21 Student Progress Tracking DBMS</b></a><br/>
+      Contributor to the database backend for the Grow21 ecosystem. Worked on SQL schema design, normalization, stored procedures, and backend functionality for child progress tracking.
     </td>
   </tr>
 </table>
