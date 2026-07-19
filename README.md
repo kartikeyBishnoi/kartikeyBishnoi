@@ -1,82 +1,145 @@
-+-----------------------------------------------------+
-|                                                     |
-|           KARTIKEY BISHNOI                          |
-|      AI • Computer Vision • LLMs                    |
-|                                                     |
-+-----------------------------------------------------+
+<h1 align="center">Hi 👋, I'm Kartikey Bishnoi</h1>
 
-## About Me
+<h3 align="center">
+AI • Machine Learning • Computer Vision • Medical AI • LLM Applications
+</h3>
 
-B.Tech Computer Science student at BML Munjal University
+<p align="center">
+Building intelligent systems using Machine Learning, Computer Vision, and Large Language Models to solve real-world problems.
+</p>
 
-Interested in
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science student at **BML Munjal University**
+
+🔬 Interested in
+
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
-- Large Language Models (LLMs)
+- Medical AI
+- Large Language Models
 
-Currently working on
-- Glaucoma Detection using Deep Learning
-- AI-powered applications
+Currently focusing on building practical AI systems, conducting research in medical image analysis, and developing production-ready intelligent applications.
 
 ---
 
-## Tech Stack
+## 🎯 Current Focus
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,java,js,nodejs,mongodb,mysql,git,vscode" />
+- 🧠 Multimodal Glaucoma Detection Research
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- 📊 Machine Learning
+- ⚙️ AI Product Development
+- 🚀 End-to-End AI Systems
+
+---
+
+## 💼 Experience
+
+### AI/ML Intern • Unisphere
+
+- Developed **PalmBot**, an AI chatbot for university policies.
+- Built Retrieval-Augmented Generation (RAG) pipelines.
+- Worked with **LangChain**, **ChromaDB**, **Google Gemini**, and **GraphQL**.
+- Improved document retrieval and semantic search.
+
+### Product Management Intern • GrowEasy.ai
+
+- Worked on AI product planning and feature design.
+- Conducted competitor analysis and product research.
+- Defined product workflows and user experience improvements.
+- Collaborated on AI-driven product strategy.
+
+---
+
+## 🔬 Research
+
+### Multimodal Glaucoma Detection
+
+Working on a multimodal deep learning framework for glaucoma diagnosis using multiple clinical modalities, including retinal OCT imaging, fundus images, visual field data, and complementary ophthalmic information.
+
+Current research focuses on:
+
+- Lightweight model optimization
+- Better multimodal feature fusion
+- Improved benchmark performance
+- Clinical applicability
+- Explainable AI for medical imaging
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
+
 Python • Java • C • JavaScript • SQL
 
 ### AI / ML
-TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy
+
+TensorFlow • OpenCV • NumPy • Pandas • Scikit-Learn
 
 ### LLMs
+
 LangChain • ChromaDB • Google Gemini API
 
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+### Other
+
+Git • GitHub • GraphQL • VS Code
 
 ---
 
-## Experience
+## 🌟 Featured Projects
 
-AI/ML Intern
-Unisphere
+### 🧠 Glaucoma Detection
 
-• Built PalmBot
-• Implemented RAG
-• LangChain + ChromaDB + GraphQL
-• Gemini API
-
-## Featured Projects
-
-🔹 Glaucoma Detection (Deep Learning)
-
-Medical image classification using retinal OCT images.
-
-🔹 PalmBot
-
-A Retrieval-Augmented Generation chatbot built using LangChain, ChromaDB and Gemini.
-
-🔹 Grow21
-
-AI-assisted educational application for children with Down syndrome.
+Deep learning framework for glaucoma diagnosis using retinal OCT images and multimodal clinical data.
 
 ---
 
-## Currently Learning
+### 🤖 PalmBot
+
+Retrieval-Augmented Generation chatbot built for university policy assistance using LangChain, ChromaDB, Gemini, and GraphQL.
+
+---
+
+### 📱 Grow21
+
+AI-assisted educational application for children with Down syndrome featuring interactive learning activities.
+
+---
+
+### 💧 HydroSense
+
+IoT-based smart water quality monitoring system using ESP32 and multiple environmental sensors.
+
+---
+
+## 📚 Currently Learning
 
 - Deep Learning
 - Medical AI
 - MLOps
-- LLM Applications
-- System Design
+- LLM Engineering
+- Advanced Computer Vision
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/kartikey-bishnoi-73343630b/
+<p align="center">
 
-Email: kartikey.bishnoi.24cse@bmu.edu.in
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyBishnoi&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Connect
+
+- LinkedIn: https://linkedin.com/in/kartikey-bishnoi-73343630b/
+- Email: kartikey.bishnoi.24cse@bmu.edu.in
