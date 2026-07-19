@@ -1,25 +1,42 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:111827&text=Kartikey%20Bishnoi&fontColor=E2E8F0&fontSize=42&fontAlignY=32&desc=AI%20•%20Neural%20Networks%20•%20Research%20•%20Intelligent%20Systems&descAlignY=58&descSize=18" alt="Banner" />
-</p>
+</div>
 
-<p align="center">
-  Interested in how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research
-</p>
+<div align="center">
+  It interests me how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research.
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/kartikey-bishnoi-73343630b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kartikey.bishnoi.24cse@bmu.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Education</b></td>
+      <td>B.Tech CSE @ BML Munjal University</td>
+    </tr>
+    <tr>
+      <td><b>Focus</b></td>
+      <td>AI • Neural Networks • Research • Intelligent Systems</td>
+    </tr>
+    <tr>
+      <td><b>Building</b></td>
+      <td>Multimodal medical AI, RAG systems, and product-minded software</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Research Interests
-
-I am most interested in:
 
 - Artificial Intelligence
 - Neural Networks
@@ -58,6 +75,7 @@ I am most interested in:
 ## Research
 
 ### Multimodal Glaucoma Detection
+
 Working on a multimodal glaucoma framework using five clinical modalities to improve diagnosis, robustness, and benchmark performance.
 
 Current goals:
@@ -70,43 +88,71 @@ Current goals:
 
 ## Featured Work
 
-### [Nitro - Wake-Word Voice Assistant](https://github.com/kartikeyBishnoi/Nitro)
-Wake-word activated voice assistant with LLM querying and offline responses.
-
-### [Grow21](https://github.com/kartikeyBishnoi/Grow21)
-AI-assisted learning app for children with Trisomy 21.
-
-### [HydroSense](https://github.com/kartikeyBishnoi/HydroSense)
-Real-time monitoring and alert system for sensor data.
-
-### [PalmBot](https://github.com/kartikeyBishnoi/Palmo)
-RAG chatbot for BMU policy queries.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kartikeyBishnoi/Nitro"><b>Nitro - Wake-Word Voice Assistant</b></a><br/>
+      Wake-word activated voice assistant with LLM querying and offline responses.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kartikeyBishnoi/Grow21-MAD"><b>Grow21</b></a><br/>
+      AI-assisted learning app for children with Trisomy 21.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kartikeyBishnoi/HydroSense"><b>HydroSense</b></a><br/>
+      Real-time monitoring and alert system for sensor data.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kartikeyBishnoi/Palmo"><b>PalmBot</b></a><br/>
+      RAG chatbot for BMU policy queries.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" /></p>
-
-### AI / ML
-<p align="center"><img src="https://skillicons.dev/icons?i=opencv,flask,huggingface,langchain,chromadb" /></p>
-
-### APIs / Data
-<p align="center"><img src="https://skillicons.dev/icons?i=graphql,n8n" /></p>
-
-### Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" /></p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>TensorFlow • OpenCV • Hugging Face • Flask</td>
+  </tr>
+  <tr>
+    <td><b>LLM / Retrieval</b></td>
+    <td>LangChain • ChromaDB • GraphQL • LLM APIs</td>
+  </tr>
+  <tr>
+    <td><b>Data / Automation</b></td>
+    <td>n8n • Data preprocessing • Model evaluation • API integration</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" /></td>
+  </tr>
+</table>
 
 ---
 
+## Achievements
+
+- **1st Place - Pitch It Up (2025)**  
+  Pitched SafeNest, an AI-based wrist band using anomaly detection and behavioral analytics.
+
+---
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=kartikeyBishnoi&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
