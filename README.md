@@ -7,8 +7,8 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/kartikey-bishnoi-73343630b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="LinkedIn">
+</a>
 
   <a href="mailto:kartikey.bishnoi.24cse@bmu.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
