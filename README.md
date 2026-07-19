@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:111827&text=Kartikey%20Bishnoi&fontColor=E2E8F0&fontSize=40&fontAlignY=35&desc=AI%20•%20Neural%20Networks%20•%20Research%20•%20Intelligent%20Systems&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:111827&text=Kartikey%20Bishnoi&fontColor=E2E8F0&fontSize=42&fontAlignY=32&desc=AI%20•%20Neural%20Networks%20•%20Research%20•%20Intelligent%20Systems&descAlignY=58&descSize=18" alt="Banner" />
 </p>
 
 <p align="center">
-  I study how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research.
+  It interests me how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## Research Interests
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,pandas,graphql,git,github,vscode,androidstudio,jupyter,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,graphql,git,github,vscode,androidstudio,jupyter,linux" />
 </p>
 
 I am most interested in:
@@ -74,46 +74,24 @@ Current goals:
 
 ## Featured Work
 
-### Glaucoma Detection
-Medical AI research project focused on glaucoma classification and multimodal learning.
+### [Nitro - Wake-Word Voice Assistant](https://github.com/kartikeyBishnoi/Nitro)
+Wake-word activated voice assistant with LLM querying and offline responses.
 
-### PalmBot
-Retrieval-augmented chatbot for BMU policy queries.
+### [Grow21](https://github.com/kartikeyBishnoi/Grow21-MAD)
+AI-assisted learning app for children with Trisomy 21.
 
-### Grow21
-AI-assisted educational app for children with Trisomy 21.
+### [HydroSense](https://github.com/kartikeyBishnoi/HydroSense)
+Real-time monitoring and alert system for sensor data.
 
-### GrowEasy Lead Qualification
-Product and agent-assignment work focused on qualifying and routing leads.
-
-### Twisted Thread
-E-commerce storefront for handmade crochet items.
-
-### HydroSense
-IoT-based water quality monitoring system.
+### [PalmBot](https://github.com/kartikeyBishnoi/Palmo)
+RAG chatbot for BMU policy queries.
 
 ---
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,scikitlearn" />
-</p>
-
-### LLM / Retrieval
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux,googlecolab" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,flask,huggingface,langchain,chromadb,n8n,git,github,vscode,androidstudio,jupyter,linux" />
 </p>
 
 ---
@@ -121,7 +99,7 @@ IoT-based water quality monitoring system.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=kartikeyBishnoi&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
