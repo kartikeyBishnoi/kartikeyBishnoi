@@ -134,7 +134,7 @@ Current goals:
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,jupyter" /></td>
   </tr>
 </table>
 
