@@ -90,12 +90,8 @@ Current goals:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kartikeyBishnoi/Nitro"><b>Nitro - Wake-Word Voice Assistant</b></a><br/>
-      Wake-word activated voice assistant with LLM querying and offline responses.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kartikeyBishnoi/Grow21"><b>Grow21</b></a><br/>
-      AI-assisted learning app for children with Trisomy 21.
+      <a href="https://github.com/kartikeyBishnoi/glaucoma-detection-model"><b>Glaucoma Detection Model</b></a><br/>
+      Multimodal glaucoma detection framework integrating five clinical modalities with deep learning to improve diagnostic accuracy, robustness, and model interpretability.
     </td>
   </tr>
 </table>
