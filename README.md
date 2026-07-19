@@ -3,7 +3,7 @@
 <h3 align="center">AI • Computer Vision • Medical AI • LLM Applications</h3>
 
 <p align="center">
-  Building practical AI systems, working on multimodal medical imaging research, and shipping product-minded software.
+  I like understanding how AI systems work, where they fail, and how to build them into useful products.
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 ## About Me
 
 - B.Tech CSE student at **BML Munjal University**
-- AI/ML Intern at **Unisphere**
-- Product Management Intern at **GrowEasy.ai**
-- Focused on AI systems, computer vision, medical AI, and product execution
+- Interested in **Artificial Intelligence, Machine Learning, Computer Vision, Medical AI, and LLM applications**
+- Curious about **how AI works internally, trustworthy AI, and practical product thinking**
+- Building projects that combine research, software, and real-world usefulness
 
 ---
 
@@ -31,31 +31,31 @@
 - Multimodal glaucoma detection research across five clinical modalities
 - Lightweight model design and benchmark improvement
 - Retrieval-augmented generation systems
-- Building clean, useful AI products
+- Building clean AI products with a strong user focus
 
 ---
 
 ## Experience
 
+### Product Management Intern • GrowEasy.ai
+- Working on lead qualification, product workflows, and feature planning
+- Doing competitor analysis and user-focused product research
+- Helping shape product decisions and execution
+
 ### AI/ML Intern • Unisphere
 - Built **PalmBot** for BMU policy assistance
-- Worked on RAG pipelines and semantic retrieval
+- Worked on Retrieval-Augmented Generation pipelines
 - Used **LangChain**, **ChromaDB**, **Google Gemini**, and **GraphQL**
-
-### Product Management Intern • GrowEasy.ai
-- Worked on lead qualification and product workflows
-- Ran competitor analysis and feature planning
-- Helped shape product decisions and user experience
 
 ---
 
 ## Research
 
 ### Multimodal Glaucoma Detection
-Working on a multimodal glaucoma model that combines five clinical modalities to improve diagnosis, robustness, and benchmark performance.
+Working on a multimodal glaucoma framework using five clinical modalities to improve diagnosis, robustness, and benchmark performance.
 
 Current goals:
-- stronger feature fusion
+- stronger multimodal feature fusion
 - lighter deployment-friendly models
 - better generalization
 - explainability for clinical use
@@ -65,7 +65,7 @@ Current goals:
 ## Featured Projects
 
 ### [Glaucoma Detection](https://github.com/kartikeyBishnoi/glaucoma-detection)
-Medical image research for glaucoma classification and multimodal learning.
+Medical AI project focused on glaucoma classification and multimodal learning.
 
 ### [PalmBot](https://github.com/kartikeyBishnoi/Palmo)
 RAG chatbot for BMU policy queries.
@@ -87,24 +87,32 @@ IoT-based water quality monitoring system.
 ## Tech Stack
 
 ### Languages
-Python, Java, C, JavaScript, SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+</p>
 
 ### AI / ML
-TensorFlow, OpenCV, NumPy, Pandas, Scikit-learn
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 
 ### LLM / Retrieval
-LangChain, ChromaDB, Google Gemini, GraphQL
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" />
+</p>
 
 ### Tools
-Git, GitHub, Android Studio, VS Code, Jupyter, Google Colab
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" />
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kartikeyBishnoi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyBishnoi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -115,6 +123,6 @@ Git, GitHub, Android Studio, VS Code, Jupyter, Google Colab
 
 ## Now
 
-- Reading: Transformer and multimodal medical AI papers
+- Reading: transformers and multimodal medical AI papers
 - Building: research code, AI products, and polished project repos
 - Open to: internships, research collaborations, and meaningful AI work
