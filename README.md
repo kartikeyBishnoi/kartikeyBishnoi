@@ -2,15 +2,15 @@
 
 ## About Me
 
-🎓 B.Tech Computer Science student at BML Munjal University
+B.Tech Computer Science student at BML Munjal University
 
-💡 Interested in
+Interested in
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - Large Language Models (LLMs)
 
-🌱 Currently working on
+Currently working on
 - Glaucoma Detection using Deep Learning
 - AI-powered applications
 
