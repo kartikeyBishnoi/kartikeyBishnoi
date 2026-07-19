@@ -1,4 +1,4 @@
-# Hi, I'm Kartikey Bishnoi 👋
+# Hi, I'm Kartikey Bishnoi 
 
 ## About Me
 
