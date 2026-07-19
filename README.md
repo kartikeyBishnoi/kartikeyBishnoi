@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:111827&text=Kartikey%20Bishnoi&fontColor=E2E8F0&fontSize=40&fontAlignY=35&desc=AI%20•%20Neural%20Networks%20•%20Research%20•%20Intelligent%20Systems&descAlignY=58&descSize=18" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kartikey Bishnoi</h1>
 
-<h3 align="center">AI • Computer Vision • Medical AI • LLM Applications</h3>
-
 <p align="center">
-  I like understanding how AI systems work, where they fail, and how to build them into useful products.
+  I study how intelligent systems learn, reason, and generalize, and I like turning that into useful AI software and research.
 </p>
 
 <p align="center">
@@ -17,12 +19,22 @@
 
 ---
 
-## About Me
+## Research Interests
 
-- B.Tech CSE student at **BML Munjal University**
-- Interested in **Artificial Intelligence, Machine Learning, Computer Vision, Medical AI, and LLM applications**
-- Curious about **how AI works internally, trustworthy AI, and practical product thinking**
-- Building projects that combine research, software, and real-world usefulness
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,pandas,graphql,git,github,vscode,androidstudio,jupyter,linux" />
+</p>
+
+I am most interested in:
+
+- Artificial Intelligence
+- Neural Networks
+- Deep Learning
+- Multimodal Learning
+- Medical AI
+- Explainable AI
+- Trustworthy AI
+- Intelligent Systems
 
 ---
 
@@ -31,7 +43,7 @@
 - Multimodal glaucoma detection research across five clinical modalities
 - Lightweight model design and benchmark improvement
 - Retrieval-augmented generation systems
-- Building clean AI products with a strong user focus
+- Building clean AI products with strong user focus
 
 ---
 
@@ -62,24 +74,24 @@ Current goals:
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### [Glaucoma Detection](https://github.com/kartikeyBishnoi/glaucoma-detection)
-Medical AI project focused on glaucoma classification and multimodal learning.
+### Glaucoma Detection
+Medical AI research project focused on glaucoma classification and multimodal learning.
 
-### [PalmBot](https://github.com/kartikeyBishnoi/Palmo)
-RAG chatbot for BMU policy queries.
+### PalmBot
+Retrieval-augmented chatbot for BMU policy queries.
 
-### [Grow21](https://github.com/kartikeyBishnoi/Grow21-MAD)
+### Grow21
 AI-assisted educational app for children with Trisomy 21.
 
-### [GrowEasy Lead Qualification](https://github.com/kartikeyBishnoi/groweasy-lead-agent-assignment)
+### GrowEasy Lead Qualification
 Product and agent-assignment work focused on qualifying and routing leads.
 
-### [Twisted Thread](https://github.com/kartikeyBishnoi/Twisted-Thread)
+### Twisted Thread
 E-commerce storefront for handmade crochet items.
 
-### [HydroSense](https://github.com/kartikeyBishnoi/HydroSense)
+### HydroSense
 IoT-based water quality monitoring system.
 
 ---
@@ -88,12 +100,12 @@ IoT-based water quality monitoring system.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql" />
 </p>
 
 ### AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,scikitlearn" />
 </p>
 
 ### LLM / Retrieval
@@ -103,7 +115,7 @@ IoT-based water quality monitoring system.
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,linux,googlecolab" />
 </p>
 
 ---
@@ -111,12 +123,8 @@ IoT-based water quality monitoring system.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyBishnoi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikeyBishnoi&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kartikeyBishnoi&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
