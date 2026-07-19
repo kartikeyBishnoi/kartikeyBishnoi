@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Kartikey Bishnoi 👋
 
-<!--
-**kartikeyBishnoi/kartikeyBishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science student at BML Munjal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Large Language Models (LLMs)
+
+🌱 Currently working on
+- Glaucoma Detection using Deep Learning
+- AI-powered applications
+
+---
+
+## Tech Stack
+
+### Languages
+Python • Java • C • JavaScript • SQL
+
+### AI / ML
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy
+
+### LLMs
+LangChain • ChromaDB • Google Gemini API
+
+### Tools
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+
+---
+
+## Featured Projects
+
+🔹 Glaucoma Detection (Deep Learning)
+
+Medical image classification using retinal OCT images.
+
+🔹 PalmBot
+
+A Retrieval-Augmented Generation chatbot built using LangChain, ChromaDB and Gemini.
+
+🔹 Grow21
+
+AI-assisted educational application for children with Down syndrome.
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- Medical AI
+- MLOps
+- LLM Applications
+- System Design
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/kartikey-bishnoi-73343630b/
+
+Email: kartikey.bishnoi.24cse@bmu.edu.in
