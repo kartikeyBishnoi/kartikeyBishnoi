@@ -18,6 +18,8 @@ Currently working on
 
 ## Tech Stack
 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,java,js,nodejs,mongodb,mysql,git,vscode" />
+
 ### Languages
 Python • Java • C • JavaScript • SQL
 
