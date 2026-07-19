@@ -140,21 +140,6 @@ Current goals:
 
 ---
 
-## Achievements
-
-- **1st Place - Pitch It Up (2025)**  
-  Pitched SafeNest, an AI-based wrist band using anomaly detection and behavioral analytics.
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=kartikeyBishnoi&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## Now
 
