@@ -127,18 +127,6 @@ IoT-based smart water quality monitoring system using ESP32 and multiple environ
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikeyBishnoi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyBishnoi&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🤝 Connect
 
 - LinkedIn: https://linkedin.com/in/kartikey-bishnoi-73343630b/
