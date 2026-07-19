@@ -39,6 +39,16 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 
 ---
 
+## Experience
+
+AI/ML Intern
+Unisphere
+
+• Built PalmBot
+• Implemented RAG
+• LangChain + ChromaDB + GraphQL
+• Gemini API
+
 ## Featured Projects
 
 🔹 Glaucoma Detection (Deep Learning)
