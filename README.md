@@ -95,7 +95,7 @@ Current goals:
       Wake-word activated voice assistant with LLM querying and offline responses.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kartikeyBishnoi/Grow21-MAD"><b>Grow21</b></a><br/>
+      <a href="https://github.com/kartikeyBishnoi/Grow21"><b>Grow21</b></a><br/>
       AI-assisted learning app for children with Trisomy 21.
     </td>
   </tr>
